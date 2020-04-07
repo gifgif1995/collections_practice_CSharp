@@ -1,0 +1,11 @@
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.csprojAssemblyReference.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.AssemblyInfo.cs
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.deps.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.runtimeconfig.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.runtimeconfig.dev.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/bin/Debug/netcoreapp2.2/collections_practice.pdb
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/collections_practice/obj/Debug/netcoreapp2.2/collections_practice.pdb
